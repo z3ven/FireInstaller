@@ -2,7 +2,7 @@
 echo --------------------------------------------------------
 echo "					Fire installer 1.0               "
 echo "By Zeven"
-echo "Github: https://github.com/zeven/FireInstaller"
+echo "Github: https://github.com/z3ven/FireInstaller"
 echo "YouTube: https://www.youtube.com/channel/UCQNtGAgFfVfCOKoxvpvpPrw"
 echo --------------------------------------------------------
 echo "Program copying your old files to the Windows.old folder."
